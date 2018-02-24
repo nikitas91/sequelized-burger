@@ -1,0 +1,22 @@
+body{
+    background-color: #fc6;
+    text-align: center;
+    padding-top: 30px;
+}
+
+.burger-form > button[type=submit]{
+    margin: 15px 0;
+}
+
+.well-burger{
+    border-radius: 6px;
+}
+
+.well-burger > p{
+    display: inline-block;
+    margin: 7px 0;
+}
+
+h2{
+    color: #f30;
+}
